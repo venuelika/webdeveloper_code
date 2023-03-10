@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+}
+.logo{
+    position: relative;
+    /* left: 60px; */
+}
+.header{
+    background-color: orange;
+    opacity: 0.85;
+    height: 100%;
+}
+.heading{
+   color: black;
+   position: relative;
+   /* left: 180px; */
+   
+}
+.head{
+    float: right;
+    color: black;
+    position: relative;
+
+    /* right: 200px; */
+}
+ul li{
+  display: inline;
+  padding-left: 30px;
+}
+ul {
+  float: right;
+  list-style-type: none;
+  position: relative;
+  /* right: 190px; */
+}
+ li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: blue;
+}
+.cl5{
+   border: 2px dotted rgb(99, 88, 88);
+   border-color: black;   
+   padding: 10px;
+   position: relative;
+   top: 120px;
+   color: black;
+}
+.cl1{
+    position: relative;
+    top: 110px;
+    font-size: 100px;
+    font-family: Riverna Side Grunge;
+    color: black;
+    text-shadow: 2px 2px white;
+}
+.cl2{
+    position: relative;
+    top: 90px;
+    font-size: 60px;
+    font-family: waildesh;
+    color: black;
+    text-shadow: 2px 1px white;
+}
+.image{
+    width: 100%;
+     height: 100%; 
+    position: relative;
+    /* left: 70px; */
+}
+ .imagepart1{
+    width: 100%;
+    height: 100%; 
+    position: relative;
+    top: 50px;
+    border-radius: 10px;
+}
+.imagepart2{
+    width: 100%;
+    /* height: 100%; */
+    position: relative;
+    top: 50px;
+    border-radius: 10px;
+}
+.imagepart3{
+    width: 100%;
+    /* height: 100%; */
+    position: relative;
+    top: 107px;
+    border-radius: 10px;
+}
+.spanheader{
+    position: relative;
+    top: 120px;
+    text-align: center;
+}
+.chooseheader{
+    position: relative;
+    top: 130px;
+    text-align: center;
+    font-family: waildesh;
+}
+.bottomheader{
+    position: relative;
+    top: 140px;
+    text-align: center;
+}
+.bodypart1{
+    position: relative;
+    top: 160px;
+    /* left: 100px; */
+}
+.parts{
+    position: relative;
+    top: 160px;
+}
+.sit{
+    position: absolute;
+    top: 0px;
+}
+.ipsum{
+    position: absolute;
+    top: 10px;
+}
+.lorem{
+    position: absolute;
+    top: 100px;
+}
+.dots{
+    position: absolute;
+    top: 200px;
+}
+.part6{
+    position: relative;
+    top: 0px;
+    left: 50px;
+    /* right: 20px; */
+}
+.count{
+    position: relative;
+    top: 190px;
+    padding: 15px;
+    height: 100%;
+    /* width: 100%; */
+    box-shadow: 0 4px 8px 0 rgba(14, 13, 13, 0.2), 0 6px 20px 0 rgba(27, 27, 27, 0.19);
+}
+
+
+
+
+
